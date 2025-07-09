@@ -67,9 +67,3 @@ This project is an **Excel-based Bank Loan Analysis Dashboard** that visualizes 
 - Build additional KPI scorecards
 
 ---
-
-## 🙌 Author
-
-Sakshi Dasaram Padole
-
----
